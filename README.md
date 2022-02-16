@@ -39,6 +39,6 @@ npm run electron:serve
 ```
 npm run electron:build
 ```
-  ### 博客 https://i.cnblogs.com/posts/edit-done;postId=15789415
+  ### 博客 https://www.cnblogs.com/volodya/p/15789415.html
 
 
